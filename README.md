@@ -1,1 +1,4 @@
-# responder-AI
+## General AI 
+* template piece 
+* python
+* model fetch 
