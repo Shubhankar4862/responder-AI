@@ -1,4 +1,4 @@
 ## General AI 
 * template piece 
-* python
-* model fetch 
+* Python
+* Open AI / model fetch
